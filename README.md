@@ -1,4 +1,4 @@
-# SystemDesign
+## SystemDesign
 
 * Ask good Questions
       what features to work on 
@@ -7,6 +7,8 @@
 * Clear and Organized thinking
 * Drive discussions (80 - 20 rule)
 
+
+## To approach design problem , follow the below steps
 
 1. Features
 2. Define APIs
@@ -17,6 +19,8 @@
 7. Class Diagram
 8. Cost Effective
 9. Security Vs Privacy
+
+## Topics to cover
 
   1. HTTP VS WEBSOCKETS
   2. BloomFilter
@@ -32,4 +36,4 @@
   12. Load Balancer - L4 & L7
   13. Vertical Vs Horizontal Scaling
   14. RDMS Vs NoSQL Databases
-  15. 
+  
