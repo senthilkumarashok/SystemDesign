@@ -36,4 +36,8 @@
   12. Load Balancer - L4 & L7
   13. Vertical Vs Horizontal Scaling
   14. RDMS Vs NoSQL Databases
+
+## References
+
+  https://www.youtube.com/watch?v=ZgdS0EUmn70
   
